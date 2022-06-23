@@ -274,8 +274,8 @@ payload:
 ##- IP-CIDR,52.89.124.203/32
 ##- IP-CIDR,54.148.37.5/32
   # Disney+
-##- DOMAIN-KEYWORD,hotstar
-##- DOMAIN-SUFFIX,hotstar.com
+  - DOMAIN-KEYWORD,hotstar
+  - DOMAIN-SUFFIX,hotstar.com
   - DOMAIN-SUFFIX,expressplay.com
   - DOMAIN-SUFFIX,measurement.com
   - DOMAIN-SUFFIX,bamgrid.com
